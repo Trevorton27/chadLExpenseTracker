@@ -1,11 +1,11 @@
 body {
   text-align: center;
   font-weight: bold;
-  background-color:rgb(170, 214, 189);
+  background-color: rgb(170, 214, 189);
 }
 
 button {
-  background-color:rgb(192, 192, 192);
+  background-color: rgb(192, 192, 192);
   font-weight: bold;
 }
 
@@ -13,11 +13,13 @@ button {
   text-align: left;
 }
 
-.deleteButtons{
+.deleteButtons {
   background-color: red;
   height: 38px;
   width: 28px;
   border-color: rgb(161, 0, 0);
+  color: #fff;
+  border-radius: 50%;
 }
 
 table {
@@ -37,6 +39,6 @@ td {
 th {
   border: 1px solid black;
   padding: 5px;
-  margin:0px;
+  margin: 0px;
   background: rgb(212, 212, 212);
-} 
+}
